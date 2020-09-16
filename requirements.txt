@@ -1,3 +1,7 @@
+# Django
 django==3.1
 djangorestframework==3.11.1
 flake8>=3.8.3,<3.9
+
+# Postgres
+psycopg2 ==2.8.6
